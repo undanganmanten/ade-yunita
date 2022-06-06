@@ -1145,7 +1145,7 @@ font-size: 40px;
   background: transparent;
   border: 1px solid #fcc883;
   color: #fcc883;
-  font-family: 'Josefin Sans',sans-serif;
+  font-family: 'Playfair Display', serif;
   margin-top: 10px;
 }
 
@@ -1153,6 +1153,15 @@ font-size: 40px;
   display: flex;
   margin-top: 10px;
   margin-bottom: 10px;
+  font-family: 'Playfair Display', serif;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+.hadir-confirm p label{
+  font-family: 'Playfair Display', serif;
+  font-size: 17px;
+  font-weight: lighter;
 }
 
 input[type="radio"] {
@@ -1263,7 +1272,7 @@ input[type="radio"] {
   color: #fcc883;
   font-family: 'Playfair Display', serif;
   font-weight: lighter;
-  font-size: 18px;
+  font-size: 17px;
   text-align: center;
   padding: 0px 30px;
   margin-bottom: 20px;

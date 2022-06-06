@@ -1414,8 +1414,10 @@ input[type="radio"] {
 .box p{
   color: #fcc883;
   text-align: center;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
   padding: 0 20px 10px 20px;
+  font-family: 'Playfair Display', serif;
+  font-weight: lighter;
+  font-size: 17px;
 }
 
 .box button{
@@ -1445,8 +1447,9 @@ input[type="radio"] {
 .thankyou h2{
   margin-top: 100px;
   font-size: 20px;
-  font-family: 'Mitr', sans-serif;
   color: #fcc883;
+  font-family: 'Playfair Display', serif;
+  font-weight: lighter;
 }
 
 .thankyou h5{
@@ -1595,13 +1598,17 @@ input[type="radio"] {
 
 .footer p{
   color: #fcc883;
-  z-index: 100;
+  font-family: 'Playfair Display', serif;
+  font-weight: lighter;
+  font-size: 17px;
 }
 
 .footer a{
   color: #fcc883;
   text-decoration: none;
-  z-index: 100;
+  font-family: 'Playfair Display', serif;
+  font-weight: lighter;
+  font-size: 17px;
 }
 
 
